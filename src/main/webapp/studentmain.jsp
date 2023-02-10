@@ -8,6 +8,6 @@
 </head>
 <body>
 	<jsp:include page="afterLoginNavbar.jsp" />
-	<h1>This is student main after login.</h1>
+	<h1>This is student main after login of student.</h1>
 </body>
 </html>
